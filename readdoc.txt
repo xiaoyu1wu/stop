@@ -1,6 +1,6 @@
 ﻿程序说明如下：
 Git is a distributed version control system.
-Git is free software.
+Git is free software......
 Git has a mutable index called stage.
 Git traces changes.
 The content of Git has changed at second time;
